@@ -1,3 +1,7 @@
+<style type="text/css">
+@import ./default.css
+</style>
+
 # Browser extensions I use
 
 - **Single File**: Store copies of webpages including all assets as a single html file: [Firefox](https://addons.mozilla.org/en-US/firefox/addon/single-file/) | [Chrome](https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)
