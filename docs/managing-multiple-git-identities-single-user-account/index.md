@@ -2,6 +2,8 @@
 @import url(https://pfahlr.github.io/default.css);
 </style>
 
+# Managing multiple git identities on a single (linux) user account.
+
 If you need to work make changes to code under different identities, there are a few different ways you can approach this. The first solution I saw on many webpages was way too clunky for my taste. It involved a modification to your `>
 
 It turns out this is the easiest solution.
