@@ -1,5 +1,7 @@
 <style> @import url(https://pfahlr.github.io/default.css); </style>
 
+# Basic content administration operation of a site built using astro static site generator
+
 Once configured, an AstroJS website only involves a small amount of technical skill. It should be entirely possible for someone with minimal experience with the command line, html and CSS to maintain a website. I will attempt to outline the parts that require continuous maintenance.
 
 ## Checking out and running a development instance
