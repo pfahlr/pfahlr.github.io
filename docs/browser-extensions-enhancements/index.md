@@ -4,14 +4,14 @@
 - **One Tab**: Collapse all of your open tabs into a webpage that you can share and keeps a running page for the life of your current install[One Tab](https://addons.mozilla.org/en-US/firefox/addon/onetab/)
 - **Ublock Origin**: Control which scripts and other active elements are allowed to run on webpages based on a complex set of rules. From **yokoffing/betterfox**: you can apply these [reccommended filters](https://github.com/yokoffing/filterlists#guidelines). [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)[^1]
 - **Violent Monkey**: Fork of **Grease Monkey**,  allows you to alter the javascript on a page. There's a lot you can do with that. A community of these **user-scripts** exists where you can find modifications to popular websites. It's sort-of like a game genie for the web. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)|[Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)[^1]
-- **Form History Control**: maintains a history of everything you enter into forms, may save you a lot of work if you have the bad habit of composing large amounts of text in webforms in spite of the many times you've lost your work when your browser froze up or battery died.  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/form-history-control/) | (https://chromewebstore.google.com/detail/form-history-control-ii/lpcccgcdjibejkgiaeijbmkpbnbkglkb)
+- **Form History Control**: maintains a history of everything you enter into forms, may save you a lot of work if you have the bad habit of composing large amounts of text in webforms in spite of the many times you've lost your work when your browser froze up or battery died.  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/form-history-control/) | [Chrome](https://chromewebstore.google.com/detail/form-history-control-ii/lpcccgcdjibejkgiaeijbmkpbnbkglkb)
 - **Web Archives**: There's no single plugin that's particularly good. Here's a few decent ones, but you might search to find a better one. 
   - [Archiveror (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/archiveror/): Archives the current page on archive.org wayback machine
   - [Wayback Machine (Chrome)](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak):Official wayback machine plugin for chrome
   - [Archive Webpage (Chrome)](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia): supports archiving to 7 different web archive sites
 - **Old Reddit Redirect**: The old version of Reddit is better. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect) | [Chrome](https://chromewebstore.google.com/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje) 
--**Auto Form**: Copy/Paste an entire form [Firefox](https://addons.mozilla.org/en-US/firefox/addon/auto-form/)|
--**Selenium IDE**: Automate complex interactions with websites. For testing and more [Firefox](https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/) | [Chrome](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) | [Website](https://www.selenium.dev/selenium-ide/)[^1]
+- **Auto Form**: Copy/Paste an entire form [Firefox](https://addons.mozilla.org/en-US/firefox/addon/auto-form/)|
+- **Selenium IDE**: Automate complex interactions with websites. For testing and more [Firefox](https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/) | [Chrome](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) | [Website](https://www.selenium.dev/selenium-ide/)[^1]
 
 ---
 
@@ -22,13 +22,14 @@
 - [**Selenium**](https://www.selenium.dev/): There's more than just the IDE browser plugins.
 
 ---
-[^1]:note: chrome store has disabled some useful extensions like ublock origin and violentmonkey... but, believe it or not, it's incredibly easy to bypass. Just follow these steps**
+[^1]:note: chrome store has disabled some useful extensions like ublock origin and violentmonkey... but, believe it or not, it's incredibly easy to bypass. Just follow these steps:
+
 1. Right-Click->inspect on the **Add to Chrome** button to open the **Web Developer** panel
 <figure>
 <img src="./images/step-1-inspect-disabled-chrome-extension-add-button.png" alt="Image shows the mouse over *inspect* option of the right click menu from the *add to chrome* button"/>
 <figcaption></figcaption>
 </figure>
-2. In the **Web Developer -> Elements** panel expand the container divs until you find the `&lt;button&gt;` element. 
+2. In the **Web Developer -> Elements** panel expand the container divs until you find the `<button>` element. 
 <figure>
 <img src="./images/step-2-part-1-expand-wrapper-div.png" alt="Image shows mouse pointer clicking on containing div in web developer panel"/>
 <figcaption>expand outermost div</figcaption>
@@ -49,7 +50,7 @@
 4. Note the **Add to Chrome** button is no longer greyed out and displays active. Click it to add the extension just as you normally would.
 <figure>
 <img src="./images/step-4-note-add-is-enabled-and-click-to-install-normally.png" alt="Image shows active *Add to Chrome* button"/>
-<figcaption>**Add to Chrome** button is active now.</figcaption>
+<figcaption><strong>Add to Chrome</strong> button is active now.</figcaption>
 </figure>
 5. Click the **Add extension** in the dialog to confirm. 
 <figure>
@@ -58,6 +59,6 @@
 </figure>
 6. The extension should be enabled just like any other.
 <figure>
-<img src="./step-6-success.png" alt="Image shows extension is added"/>
+<img src="./images/step-6-success.png" alt="Image shows extension is added"/>
 <figcaption>The extension has been added successfully.</figcaption>
 </figure>
