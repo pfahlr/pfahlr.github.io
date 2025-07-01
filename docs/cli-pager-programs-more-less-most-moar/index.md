@@ -1,3 +1,7 @@
+<style>
+@import url(https://pfahlr.github.io/default.css);
+</style>
+
 # Shell Commands: `more`, `less`, and `most` the Pagers
 
 These **PAGER** commands allow you to navigate through file and data stream content with a variety of useful commands. If you need to manually visually navigate through a lot of text or data, you'll find yourself using one of these commands. 
