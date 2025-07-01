@@ -6,4 +6,4 @@
 - [Comparaision of CLI pager programs: more, less, most, moar](./cli-pager-programs-more-less-most-moar)
 
 
-<a href="https://rickpfahl.com">RickPfahl.com</a> | <a href="https://github.com/pfahlr">github.com/pfahlr</a> | <a href="https://linkedin.com/in/rickpfahl">linkedin.com/in/rickpfahl</a> | <a href="https://newliteracy.online">NewLiteracy.online</a> 
+<a href="https://rickpfahl.com">RickPfahl.com</a> | <a href="https://github.com/pfahlr">Github.com/pfahlr</a> | <a href="https://linkedin.com/in/rickpfahl">LinkedIn.com/in/rickpfahl</a> | <a href="https://newliteracy.online">NewLiteracy.online</a> 
