@@ -1,3 +1,6 @@
+<style type="text/css">
+@import ./default.css
+</style>
 # Welcome to pfahlr.github.io
 
 ---
