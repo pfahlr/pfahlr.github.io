@@ -13,8 +13,8 @@
   - [Wayback Machine (Chrome)](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak):Official wayback machine plugin for chrome
   - [Archive Webpage (Chrome)](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia): supports archiving to 7 different web archive sites
 - **Old Reddit Redirect**: The old version of Reddit is better. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect) [Chrome](https://chromewebstore.google.com/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje) 
-- **Auto Form**: Copy/Paste an entire form [Firefox](https://addons.mozilla.org/en-US/firefox/addon/auto-form/)|
-- **Selenium IDE**: Automate complex interactions with websites. For testing and more [Firefox](https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/) [Chrome](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) | [Website](https://www.selenium.dev/selenium-ide/)[^1]
+- **Auto Form**: Copy/Paste an entire form [Firefox](https://addons.mozilla.org/en-US/firefox/addon/auto-form/)
+- **Selenium IDE**: Automate complex interactions with websites. For testing and more [Firefox](https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/) [Chrome](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) [Website](https://www.selenium.dev/selenium-ide/)[^1]
 
 ---
 
