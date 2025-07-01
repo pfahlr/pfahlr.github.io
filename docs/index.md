@@ -1,5 +1,5 @@
 <style type="text/css">
-@import ./default.css
+@import url(https://pfahlr.github.io/default.css);
 </style>
 # Welcome to pfahlr.github.io
 
