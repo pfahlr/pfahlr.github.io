@@ -4,3 +4,5 @@ This should be the homepage
 This is the homepage now, correct?
 
 There's a short delay, maybe?
+
+Apparently so.
